@@ -9,7 +9,7 @@
 <style>
   /* Body styles */
   body {
-    font-family: Arial, sans-serif;
+    agseg asegesg
     margin: 0;
     padding: 0;
     background-color: #f5f5f5;
@@ -18,7 +18,7 @@
 
   /* Container styles */
   .container {
-    max-width: 800px;
+   sghsdghsd
     margin: 0 auto;
     padding: 20px;
   }
@@ -32,9 +32,7 @@
 
   /* Form styles */
   #inputForm {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
+   sdgsdf
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
 
@@ -44,7 +42,7 @@
 
   input[type="text"],
   input[type="number"] {
-    width: 100%;
+   dgd
     padding: 8px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
